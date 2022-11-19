@@ -50,9 +50,9 @@ Our waste generation is constantly growing to form a global garbage crisis. Even
  
  # CREATE AND CONFIGURE IBM CLOUD SERVICES
  
- -[x] Create A Database In Cloudant DB
- -[x] Create IBM Watson IoT Platform And Device
- -[x] Create Node-RED Service
+ - [x] Create A Database In Cloudant DB
+ - [x] Create IBM Watson IoT Platform And Device
+ - [x] Create Node-RED Service
 
  # Project Planning Phase
 
