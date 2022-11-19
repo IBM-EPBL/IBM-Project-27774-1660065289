@@ -42,10 +42,17 @@ Our waste generation is constantly growing to form a global garbage crisis. Even
  - [x] Functional Requirement
  - [x] Technology Architecture
  - [x] Data Flow Diagram
+ 
  # DEVELOP A WEB APPLICATION USING NODE-RED SERVICE.
 
  - [x] Use Dashboard noted for creating UI
  - [x] Develop the web Application using Node-Red
+ 
+ # CREATE AND CONFIGURE IBM CLOUD SERVICES
+ 
+ -[x] Create A Database In Cloudant DB
+ -[x] Create IBM Watson IoT Platform And Device
+ -[x] Create Node-RED Service
 
  # Project Planning Phase
 
